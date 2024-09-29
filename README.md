@@ -1,4 +1,4 @@
-# Kufika Mbinguni
+# 🧑‍💻💫 Kufika Mbinguni 💫🧑‍💻
 
 *There's more than one way to skin a cat.*  
 Or, put more elegantly: there's more than one way to reach heaven.
