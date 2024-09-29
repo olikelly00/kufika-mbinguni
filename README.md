@@ -1,6 +1,7 @@
 # 🧑‍💻💫 Kufika Mbinguni 💫🧑‍💻
 
 *There's more than one way to skin a cat.*  
+
 Or, put more elegantly: there's more than one way to reach heaven.
 
 This is the meaning of the Swahili proverb:  **"Kuna njia nyingi za kufika mbinguni."**  
