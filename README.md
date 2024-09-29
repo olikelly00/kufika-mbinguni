@@ -16,4 +16,4 @@ However, there are always many ways to solve a coding problem, each with its own
 
 With this project, I aim to explore not just *a* solution, but the *best* solution to each problem. I will analyse the trade-offs between different approaches and learn from the process. 
 
-In short, this project is about broadening my coding knowledge, sharpening my critical thinking skills, and ultimately becoming a more proficient programmer.
+In short, this project is about broadening my coding knowledge, sharpening my critical thinking skills, and ultimately becoming a more proficient programmer. Let's find a route to heaven. 
