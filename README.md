@@ -3,9 +3,9 @@
 *There's more than one way to skin a cat.*  
 Or, put more elegantly: there's more than one way to reach heaven.
 
-This is the meaning of the Swahili proverb:  
-**"Kuna njia nyingi za kufika mbinguni."**  
-When faced with challenges, there can be many ways to overcome them.
+This is the meaning of the Swahili proverb:  **"Kuna njia nyingi za kufika mbinguni."**  
+
+The essence is the same as our English-language counterpart: when faced with challenges, there can be many ways to overcome them.
 
 ---
 
